@@ -1,0 +1,16 @@
+export const dataFake={
+
+    {
+        "id":1,
+        "photo":"aaa",
+        "title":"saiu batata nova",
+        "description":"nada demais"
+    }
+    {
+        "id":2,
+        "photo":"aaa",
+        "title":"saiu batata nova",
+        "description":"nada demais"
+    }
+};
+// vetor que armazenara os dados da nossa noticia, banco de dados fake

@@ -20,6 +20,8 @@ export class BigCardComponent implements OnInit{
   // cardDescription:string="Pringles endoidou e lançou 15 sabores novos, abalando nas redes e no coração de admiradores da marca "
   @Input()
   cardDescription:string=""
+  @Input()
+  Id:string="0"
   constructor(){}
   ngOnInit(): void {
   }
